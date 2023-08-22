@@ -1,2 +1,2 @@
 # YT-Live-Bot
-SSSS
+VERSION 1
